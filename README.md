@@ -10,4 +10,4 @@ The modified source code of mallet is also enclosed (src directory only), and th
 
 http://mallet.cs.umass.edu/dist/mallet-2.0.6.tar.gz
 
-This solution runs better than the default on the validation data set (score visible to contestants immediately), with a submission score 821119.94. 
+This solution runs better than the default on the validation data set (score visible to contestants immediately), with a submission score 821119.94. In the modified mallet.jar, L1 regularization is applied in CRF training.
